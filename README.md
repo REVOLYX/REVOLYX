@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @REVOLYX
+- 👋 Hi, I’m @MrCoveredInnit
 - 👀 I’m interested in CyberSecurity (Ethical Hacking)
 - 🌱 I’m currently learning Ethical Hacking
 - 💞️ I’m looking to collaborate on Youtube 
